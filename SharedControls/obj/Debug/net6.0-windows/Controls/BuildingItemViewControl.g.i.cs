@@ -77,7 +77,7 @@ namespace Shared.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Shared;component/controls/buildingitemviewcontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Shared;V1.0.0.0;component/controls/buildingitemviewcontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controls\BuildingItemViewControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

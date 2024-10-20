@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 229-1936105861
 Controls\BuildingItemViewControl.xaml;Controls\QuestionViewControl.xaml;Controls\WebViewControl.xaml;StylesDictionary.xaml;Viewers\BuildingViewer.xaml;Viewers\FillingViewer.xaml;Viewers\MatchingViewer.xaml;Viewers\MaterialViewer.xaml;Viewers\SelectingViewer.xaml;Viewers\StatisticViewer.xaml;Viewers\TestingViewer.xaml;
 
-True
+False
 

@@ -60,7 +60,7 @@ namespace Shared.Viewers {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Shared;component/viewers/selectingviewer.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Shared;V1.0.0.0;component/viewers/selectingviewer.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Viewers\SelectingViewer.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
